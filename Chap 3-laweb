@@ -1,0 +1,106 @@
+@@ -0,0 +1,35 @@
+
+
+
+
+
+<html> 
+
+
+
+
+
+    <head>
+
+
+        <meta charset="utf-8" href="leeeweb.css"/>
+
+
+
+
+
+        <h1>Chapitre 1: Python</h1>
+
+
+
+
+
+         <link rel="stylesheet" href="leeeweb.css" > 
+
+
+    </head>
+
+
+
+
+
+    <body>
+
+
+
+
+
+        <h2> • Activités faites en classe </h2>
+
+
+
+
+
+        <h3> *Quizz </h3>
+
+
+
+
+
+               
+
+
+
+
+
+
+
+
+        <h3> * Video sur l'IP</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <h3> * Séance 21 septembre 2022 (Partie 1-2) </h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p> <a href="https://kathalinaprieto.github.io/mapageweb.html">Page principale <A/> </p>
+
+
+
+
+
+    </body>
+
+
+
+
+
+</html>
